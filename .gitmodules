@@ -1,0 +1,3 @@
+[submodule "lualogging"]
+	path = lualogging
+	url = https://github.com/lunarmodules/lualogging.git
